@@ -25,7 +25,7 @@ if(x=="1"){xxx="post-01.html"}
 if(x=="2"){xxx="post-02.html"}
 if(x=="3"){xxx="post-03.html"}
 if(x=="4"){xxx="post-04.html"}
-if(x=="5"){xxx="post-05.html"}a_to_ve[i].href="http://safelink.antarnews.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="post-05.html"}a_to_ve[i].href="https://safelink.antarnews.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
